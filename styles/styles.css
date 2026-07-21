@@ -38,13 +38,13 @@ main {
 }
 
 aside {
-    width: 20rem;
+    width: 22rem;
     text-align: center;
     position: relative;
 }
 
 aside img {
-    width: 200px;
+    width: 300px;
     height: auto;
 }
 
