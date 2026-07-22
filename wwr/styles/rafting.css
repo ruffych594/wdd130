@@ -2,7 +2,6 @@
     --primary-color: #1B4965;
     --secondary-color: #62B6CB;
     --accent1-color: #CAE9FF;
-    --accent2-color: #5FA8D3;
 
     --heading-font: Georgia, serif;
     --body-font: Arial, Helvetica, sans-serif;
@@ -84,7 +83,7 @@ h1 {
 }
 
 section h2 {
-    background-color: var(--primary-color);
+    background-color: var(--secondary-color);
     color: white;
     text-align: center;
     padding: 12px;
