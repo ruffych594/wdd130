@@ -59,6 +59,11 @@ nav a:hover {
     color: var(--secondary-color);
 }
 
+h1,
+h2 {
+    font-family: var(--heading-font);
+}
+
 h1 {
     position: absolute;
     top: 20px;
