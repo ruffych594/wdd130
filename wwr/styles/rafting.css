@@ -75,7 +75,7 @@ h1 {
 }
 
 section h2 {
-    background-color: var(--secondary-color);
+    background-color: var(--primary-color);
     color: white;
     text-align: center;
     padding: 12px;
