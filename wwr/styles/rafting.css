@@ -368,23 +368,6 @@ section {
     color: var(--primary-color);
 }
 
-.contact-form input[type="text"],
-.contact-form input[type="email"],
-.contact-form textarea {
-    width: 100%;
-    padding: 12px;
-    border: 1px solid #bbb;
-    border-radius: 6px;
-    font-family: var(--body-font);
-    font-size: 1rem;
-    background-color: white;
-}
-
-.contact-form textarea {
-    min-height: 150px;
-    resize: vertical;
-}
-
 .contact-form input:focus,
 .contact-form textarea:focus {
     outline: none;
